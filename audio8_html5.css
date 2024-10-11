@@ -162,7 +162,7 @@ available controllers:
 	z-index:4;
 	width: 600px;
 	height: 90px;
-	background:url(controllers/darkHover/speakers.png) no-repeat;
+	background:url(speakers.png) no-repeat;
 }
 .audio8_html5.darkHover .xgradient {
 	width:470px;
@@ -182,10 +182,10 @@ available controllers:
 	z-index:1;
 	width: 16px;
 	height: 16px;
-	background: url(controllers/darkHover/facebook-off.png) no-repeat;
+	background: url(facebook-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioFacebook:hover {
-    background: url(controllers/darkHover/facebook-on.png) no-repeat;
+    background: url(facebook-on.png) no-repeat;
 }
 
 .audio8_html5.darkHover .AudioTwitter {
@@ -197,10 +197,10 @@ available controllers:
 	z-index:1;
 	width: 16px;
 	height: 16px;
-	background: url(controllers/darkHover/twitter-off.png) no-repeat;
+	background: url(twitter-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioTwitter:hover {
-    background: url(controllers/darkHover/twitter-on.png) no-repeat;
+    background: url(twitter-on.png) no-repeat;
 }
 
 .audio8_html5.darkHover .AudioPopup {
@@ -212,11 +212,11 @@ available controllers:
 	z-index:1;
 	width: 16px;
 	height: 16px;
-	background: url(controllers/darkHover/popup-off.png) no-repeat;
+	background: url(popup-off.png) no-repeat;
 	border:1px solid #0FC;
 }
 .audio8_html5.darkHover .AudioPopup:hover {
-    background: url(controllers/darkHover/popup-on.png) no-repeat;
+    background: url(popup-on.png) no-repeat;
 }
 
 
@@ -231,10 +231,10 @@ available controllers:
 	padding:0;
 	width: 80px;
 	height: 80px;
-	background: url(controllers/darkHover/play-off.png) no-repeat;
+	background: url(play-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioPlay:hover {
-    background: url(controllers/darkHover/play-on.png) no-repeat;
+    background: url(play-on.png) no-repeat;
 }
 
 
@@ -247,10 +247,10 @@ available controllers:
 	padding:0;
 	width: 85px;
 	height: 85px;
-	background: url(controllers/darkHover/pause-off.png) no-repeat;
+	background: url(pause-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioPause:hover {
-	background: url(controllers/darkHover/pause-on.png) no-repeat;
+	background: url(pause-on.png) no-repeat;
 }
 /* prev */
 .audio8_html5.darkHover .AudioPrev {
@@ -262,10 +262,10 @@ available controllers:
 	padding:0;
 	width: 40px;
 	height: 41px;
-	background: url(controllers/darkHover/prev-off.png) no-repeat;
+	background: url(prev-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioPrev:hover {
-    background: url(controllers/darkHover/prev-on.png) no-repeat;
+    background: url(prev-on.png) no-repeat;
 }
 /* next */
 .audio8_html5.darkHover .AudioNext {
@@ -277,10 +277,10 @@ available controllers:
 	padding:0;
 	width: 40px;
 	height: 41px;
-	background: url(controllers/darkHover/next-off.png) no-repeat;
+	background: url(next-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioNext:hover {
-    background: url(controllers/darkHover/next-on.png) no-repeat;
+    background: url(next-on.png) no-repeat;
 }
 
 
@@ -296,10 +296,10 @@ available controllers:
 	z-index:1;
 	width: 16px;
 	height: 16px;
-	background: url(controllers/darkHover/showhideplaylist-off.png) no-repeat;
+	background: url(showhideplaylist-off.png) no-repeat;
 }
 .audio8_html5.darkHover .AudioShowHidePlaylist:hover {
-    background: url(controllers/darkHover/showhideplaylist-on.png) no-repeat;
+    background: url(showhideplaylist-on.png) no-repeat;
 }
 
 
@@ -315,17 +315,17 @@ available controllers:
 	padding:0;
 	width: 19px;
 	height: 19px;
-	background: url(controllers/darkHover/volume-off.png) no-repeat;
+	background: url(volume-off.png) no-repeat;
 }
 .audio8_html5.darkHover .VolumeButton:hover {
-	background: url(controllers/darkHover/volume-on.png) no-repeat;
+	background: url(volume-on.png) no-repeat;
 }
 
 .audio8_html5.darkHover .VolumeButtonMuted {
-	background: url(controllers/darkHover/volumeMute-off.png) no-repeat;
+	background: url(volumeMute-off.png) no-repeat;
 }
 .audio8_html5.darkHover .VolumeButtonMuted:hover {
-	background: url(controllers/darkHover/volumeMute-on.png) no-repeat;
+	background: url(volumeMute-on.png) no-repeat;
 }
 
 /* volume slider */
@@ -455,7 +455,7 @@ available controllers:
 	margin:0;
 	padding:0px 0px;
 	text-align:center;
-	background-image:url(controllers/darkHover/categories_arrow_bg.png);
+	background-image:url(categories_arrow_bg.png);
 	background-repeat:no-repeat;
 }
 .audio8_html5.darkHover .innerSelectedCategDiv {
@@ -470,14 +470,14 @@ available controllers:
 	font-size:13px;
 	line-height:1.9;
 	font-weight:bold;
-	background-image:url(controllers/darkHover/categories_arrow_bg.png);
+	background-image:url(categories_arrow_bg.png);
 	background-repeat:no-repeat;
 }
 
 .audio8_html5.darkHover .searchDiv {
 	margin:0;
 	padding:0;
-	background-image:url(controllers/darkHover/search_icon.png);
+	background-image:url(search_icon.png);
 	background-repeat:no-repeat;
 	background-position: 10px 50%;
 }
@@ -536,8 +536,8 @@ available controllers:
 }
 
 .audio8_html5.darkHover .slider-vertical.ui-slider { position: relative;}
-.audio8_html5.darkHover .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 9px; height: 16px; cursor: pointer; background:url(controllers/darkHover/scrollerFaceOFF.png) 0 0 no-repeat; }
-.audio8_html5.darkHover .slider-vertical.ui-slider .ui-slider-handle:hover {  background:url(controllers/darkHover/scrollerFaceON.png) 0 0 no-repeat; }
+.audio8_html5.darkHover .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 9px; height: 16px; cursor: pointer; background:url(scrollerFaceOFF.png) 0 0 no-repeat; }
+.audio8_html5.darkHover .slider-vertical.ui-slider .ui-slider-handle:hover {  background:url(scrollerFaceON.png) 0 0 no-repeat; }
 .audio8_html5.darkHover .slider-vertical.ui-slider .ui-slider-range { position: absolute; z-index: 1; display: block; border: 0; }
 
 
